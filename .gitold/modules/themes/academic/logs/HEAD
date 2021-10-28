@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 242479c5eddd8c2d04a401d8675702becf9577d0 root <root@scw-clever-swirles.(none)> 1578923393 +0200	clone: from https://github.com/gcushen/hugo-academic.git
+242479c5eddd8c2d04a401d8675702becf9577d0 d995e4d14d4457166944ac645b2106e8ba8da431 root <root@scw-clever-swirles.(none)> 1578923393 +0200	checkout: moving from master to d995e4d14d4457166944ac645b2106e8ba8da431
+d995e4d14d4457166944ac645b2106e8ba8da431 7b4470ebb55f71cd24dfc73e285e3c449fe8d75f root <root@scw-clever-swirles.(none)> 1579843377 +0200	merge 7b4470ebb55f71cd24dfc73e285e3c449fe8d75f: Fast-forward
+7b4470ebb55f71cd24dfc73e285e3c449fe8d75f 7f8cb83ca941eeb3058370767aa75d6cb9e04a2d nigun <ynigun500@gmail.com> 1579845896 +0200	commit: first commit
